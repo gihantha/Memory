@@ -1,0 +1,4 @@
+// axios for making  api request
+//moment is a library for call time and date
+//react-file-base64  is used for convert images
+//redux and redux-thunk - used for asynchronized actions for redux
